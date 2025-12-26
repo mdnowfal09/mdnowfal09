@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" width="400" height="350" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## ✨ About Me :
-- 🎓I'm actively seeking Full-Time Opportunities
+- 💼 I'm actively seeking Full-Time Opportunities
 - 🔍 I'm currently searching for job
 - 🟢 I'm actively seeking Software Engineer opportunities
 - 🔭 I'm intrested in programming & digital technologies
