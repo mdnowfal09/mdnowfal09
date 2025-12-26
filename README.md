@@ -7,9 +7,10 @@
 
 ## ✨ About Me :
 - 💼 I'm actively seeking Full-Time Opportunities
-- 🔍 I'm currently searching for job
-- 🟢 I'm actively seeking Software Engineer opportunities
-- 🔭 I'm intrested in programming & digital technologies
+- 🔍 I'm currently searching for job in Software Engineering
+- 🔭 I’m currently working on something cool
+- 🌱 I'm currently learning new technologies
+- 👁️ I'm intrested in programming
 - 👯 I’m looking to collaborate on fun projects
 - 🎯 Life Hack: "Think 🤔 , plan 📊 and execute 🚀"
 
@@ -18,19 +19,19 @@
 ## 🎓 Education :
 - Bachelor of Technology in Computer Technology       
   Bannari Amman Institute of Technology, Sathyamangalam    
-  CGPA: 8.99
+  **CGPA: 8.99**
   
 ---
 
 ## 🧑‍💻 Intership :
-Project Intern - Azentio Software
+**Project Intern** - _Azentio Software_
 - Developed and implemented string validation logic in Java to enforce case-sensitive handling across all fields in the Core Banking System.
 - Enhanced application reliability by introducing validation constraints, eliminating prior gaps that caused data inconsistency and errors. 
 - Improved security and performance by preventing invalid or improperly formatted data from being stored in the Oracle database. 
 - Collaborated on a microservices-based architecture using Spring/Spring Boot to integrate validation seamlessly into existing workflows. 
 - Strengthened overall system integrity by deploying validation features that safeguarded critical banking records.
 
-Artificial Intelligence Programmer - Accent Techno Soft
+**Artificial Intelligence Programmer** - _Accent Techno Soft_
 - Developed AI models in Python using TensorFlow, PyTorch, and Scikit-Learn for machine learning and deep learning applications.
 - Applied supervised, unsupervised, and reinforcement learning techniques to analyze, predict, and classify data.
 - Constructed neural network architectures (ANNs, CNNs, RNNs, LSTMs) and optimized them using gradient-based algorithms.
