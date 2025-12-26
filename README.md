@@ -1,14 +1,43 @@
 <h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  I'm MOHAMED NOWFAL A</a></h1>
-<h3 align="center">Computer Technology Student</h3>
+<h3 align="center">B.Tech Computer Technology Graduate</h3>
+<h3 align="center">Software Developer | Cloud Computing & Application Development | Research-Oriented Technologist</h3>
+
 
 <img align="right" alt="GIF" width="400" height="350" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## ✨ About Me :
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning technologies 
-- 👁️ I'm intrested in programming
+- 🎓I'm actively seeking Full-Time Opportunities
+- 🔍 I'm currently searching for job
+- 🟢 I'm actively seeking Software Engineer opportunities
+- 🔭 I'm intrested in programming & digital technologies
 - 👯 I’m looking to collaborate on fun projects
 - 🎯 Life Hack: "Think 🤔 , plan 📊 and execute 🚀"
+
+---
+
+## 🎓 Education :
+- Bachelor of Technology in Computer Technology       
+  Bannari Amman Institute of Technology, Sathyamangalam    
+  CGPA: 8.99
+  
+---
+
+## 🧑‍💻 Intership :
+Project Intern - Azentio Software
+- Developed and implemented string validation logic in Java to enforce case-sensitive handling across all fields in the Core Banking System.
+- Enhanced application reliability by introducing validation constraints, eliminating prior gaps that caused data inconsistency and errors. 
+- Improved security and performance by preventing invalid or improperly formatted data from being stored in the Oracle database. 
+- Collaborated on a microservices-based architecture using Spring/Spring Boot to integrate validation seamlessly into existing workflows. 
+- Strengthened overall system integrity by deploying validation features that safeguarded critical banking records.
+
+Artificial Intelligence Programmer - Accent Techno Soft
+- Developed AI models in Python using TensorFlow, PyTorch, and Scikit-Learn for machine learning and deep learning applications.
+- Applied supervised, unsupervised, and reinforcement learning techniques to analyze, predict, and classify data.
+- Constructed neural network architectures (ANNs, CNNs, RNNs, LSTMs) and optimized them using gradient-based algorithms.
+- Performed natural language processing tasks (tokenization, embeddings, sentiment analysis) with NLTK and modern NLP methods.
+- Implemented computer vision pipelines including image preprocessing, feature extraction, and deep learning-based recognition.
+- Integrated speech recognition systems to convert audio inputs into text for AI-driven voice applications.
+- Documented workflows and presented outcomes to support scalable, real-world AI solutions.
 
 ---
 
@@ -38,6 +67,7 @@
 
 <p>&nbsp;
 <h3 align="left">📈 Github Stats :</h3>
+
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnowfal09&show_icons=true&locale=en" alt="mdnowfal09" /></p>
